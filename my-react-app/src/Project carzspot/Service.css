@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to bottom right,#22a6f0 10%,black 90%);
+    min-height: 100vh;
+}
+.x1{
+    background-color: aliceblue;
+}
